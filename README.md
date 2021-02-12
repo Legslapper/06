@@ -16,12 +16,12 @@ Vi uppnådde våra mål, vi skapade en hemsida som fungerar som ett “Tribute p
 **#Avgränsningar 
 - Vi ska göra en hemsida med hjälp av HTML och CSS. Hemsidan ska vara som ett virtuellt “memorial” där man ska få lära sig historia om rapparen Juice WRLD, och en bakgrund till hur han började med musiken. 
 
-Genomförande
-I detta projekt kommer vi att göra en relativt enkel hemsida som ska fungera som en tribute page till en gemensam favorit artist som dog nionde december 2019. Vi kommer att dela upp projektet på det sättet att Neo gör hemsidan medans Max ger feedback på den och skriver den generella texten som ska stå med som information på den. Sedan så skriver vi tillsammans klart det det här “stora“ dokumentet med alla frågor på.
+**Genomförande
+- I detta projekt kommer vi att göra en relativt enkel hemsida som ska fungera som en tribute page till en gemensam favorit artist som dog nionde december 2019. Vi kommer att dela upp projektet på det sättet att Neo gör hemsidan medans Max ger feedback på den och skriver den generella texten som ska stå med som information på den. Sedan så skriver vi tillsammans klart det det här “stora“ dokumentet med alla frågor på.
 
 
-#Tidsplan
-Tidsplaneringen för detta projekt kommer se ut på följande sätt:
+**Tidsplan
+- Tidsplaneringen för detta projekt kommer se ut på följande sätt:
 Vecka
 Milstolpar
 Hållpunkter
@@ -40,12 +40,12 @@ Se om det finns något att fixa och lämna in uppgiften
 
 
 
-#Projektorganisation
-Neo: Göra hemsidan och skriva i dokumentet, det förväntas att hemsidan är fungerande.
+**Projektorganisation
+- Neo: Göra hemsidan och skriva i dokumentet, det förväntas att hemsidan är fungerande.
 Max: Göra texten som används i hemsidan som information och skriva i dokumentet, det som förväntas är att texten är läsbar och inte är falsk fakta.
 
-#Kommunikation/ förankring under och efter projektet
-	Uppdragsgivare	
+**Kommunikation/ förankring under och efter projektet
+- Uppdragsgivare	
 Max Hallgren
 
 Projektledare
