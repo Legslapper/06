@@ -48,11 +48,11 @@ Max: Göra texten som används i hemsidan som information och skriva i dokumente
 - Uppdragsgivare	
 Max Hallgren
 
-Projektledare
+- Projektledare
 Max Hallgren
 
-Avdelningschef
-	Max Hallgren
+- Avdelningschef
+Max Hallgren
 
 
 
