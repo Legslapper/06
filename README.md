@@ -1,6 +1,6 @@
 # Juice WRLD Tribute
 
-#Bakgrund
+- **Bakgrund - 
 Vi har bestämt oss för att göra en “Tribute page” för att sörja en rapparen Juice WRLD som gick bort 2019. Vi valde denna sida eftersom att vi tycker att Juice WRLD hade ett stort inflytande på många av dagens ungdomar och att hans musik påverkat många på ett positivt sätt, det är många som känner till Juice WRLD men det är för få som faktiskt vet vem han är och vad som fick honom att börja med musik.  Att skriva en projektplan för projektet tyckte vi var viktigt just för att vi ska kunna strukturera arbetet på ett bättre sätt, alltså att vi vet vad vi ska göra, och när det ska bli klart. Istället för att jobba lite med allt samtidigt. Med bättre struktur blir det också lättare att göra ett “bra” / tydligt jobb som uppnår krav och förväntningar.
 
 #Syfte – nytta med projektet
